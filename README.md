@@ -6,5 +6,5 @@ This project is to generate a radnomized password based off of user input.
 
 # Where can you find this project?
 This project can be found at https://lomax12436.github.io/Pass-Generator/
-
+or the github at git@github.com:Lomax12436/Pass-Generator.git
 
